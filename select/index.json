@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "About me",
+  "base_artist": "あらき",
+  "createdAt": "2025-12-03T05:36:37.145109Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't You (Forget About Me)",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/01_Don't_You_(Forget_About_Me)_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Bet You Think About Me (Taylor's Version) (From The Vault) [feat. Chris Stapleton]",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/02_I_Bet_You_Think_About_Me_(Taylor's_Version)_(From_The_Vault)_[feat._Chris_Staple_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Bet You Think About Me (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/03_I_Bet_You_Think_About_Me_(Taylor's_Version)_(From_The_Vault)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Wanna Talk About Me",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/04_I_Wanna_Talk_About_Me_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Me About Me",
+      "artist": "RaeLynn",
+      "has_synced": true,
+      "path": "select/05_Me_About_Me_RaeLynn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Songs About Me",
+      "artist": "Trace Adkins",
+      "has_synced": true,
+      "path": "select/06_Songs_About_Me_Trace_Adkins.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You're the Best Thing About Me",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/07_You're_the_Best_Thing_About_Me_U2.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come See About Me",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/08_Come_See_About_Me_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's All About You (Not About Me)",
+      "artist": "Tracie Spencer",
+      "has_synced": false,
+      "path": "select/09_It's_All_About_You_(Not_About_Me)_Tracie_Spencer.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "What About Me (feat. Sosamann)",
+      "artist": "Lil Wayne feat. Sosamann",
+      "has_synced": true,
+      "path": "select/10_What_About_Me_(feat._Sosamann)_Lil_Wayne_feat._Sosamann.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What About Me (feat. Sosamann)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/11_What_About_Me_(feat._Sosamann)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dream About Me",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/12_Dream_About_Me_Moby.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dub About Me",
+      "artist": "Miss Kittin",
+      "has_synced": false,
+      "path": "select/13_Dub_About_Me_Miss_Kittin.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Forget About Me",
+      "artist": "Night Lovell",
+      "has_synced": true,
+      "path": "select/14_Forget_About_Me_Night_Lovell.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Forget About Me - Nite Version",
+      "artist": "Aluna feat. Diplo & Durante",
+      "has_synced": false,
+      "path": "select/15_Forget_About_Me_-_Nite_Version_Aluna_feat._Diplo_&_Durante.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All About Me",
+      "artist": "Kim Wilde",
+      "has_synced": false,
+      "path": "select/16_All_About_Me_Kim_Wilde.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't You (Forget About Me)",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/17_Don't_You_(Forget_About_Me)_Billy_Idol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "About me",
+      "artist": "あらき",
+      "has_synced": false,
+      "path": "select/pl_01_About_me_あらき.txt"
+    }
+  ]
+}
